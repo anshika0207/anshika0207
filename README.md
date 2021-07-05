@@ -1,7 +1,7 @@
 #  <Hey there! I am Anshika Bhatt />
 * ✨ My inquisitive nature drives me to learn something new every day!  
 * 🔭 I’m currently working on **Full-stack Web development**.  
-* 👯 I’m looking to collaborate for **Hackathons** and **Projects**.
+* 👯 I’m looking to collaborate on **Hackathons** and **Projects**.
 * ✉️ Reach me at:  
   📌: [LinkedIn](www.linkedin.com/in/anshikabhatt)  
   📌: [Gmail](anshikabhatt0207@gmail.com)
